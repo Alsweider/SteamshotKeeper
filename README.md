@@ -8,7 +8,7 @@ Steam screenshot backup tool. Download your old screenshots.
 
 ## Usage
 
-1. Enter your Steam name (custom vanity profile name). 
+1. Enter your Steam name (custom vanity profile name).
 2. Select a destination folder for your screenshots.
 3. Click "Download".
-4. The programme will download your latest public screenshots on Steam and put them into folders separated by their app-ID.
+4. The programme will download your latest public screenshots from the Steam cloud and put them into folders separated by their app-ID.
