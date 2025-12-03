@@ -35,7 +35,6 @@
       <Download_URL>https://github.com/Alsweider/SteamshotKeeper/releases/download/v0.3.1-demo/SteamshotKeeper.v0.3.1-demo.zip</Download_URL>
       <Icon_URL>https://github.com/Alsweider/SteamshotKeeper/raw/refs/heads/master/SteamshotKeeper.ico</Icon_URL>
       <Screenshot_URL>https://raw.githubusercontent.com/Alsweider/SteamshotKeeper/4fdd51cd6b16207bbdd4ee25ccad9c6edd280c1d/screenshot.jpg</Screenshot_URL>
-      <Screenshot_URL>https://raw.githubusercontent.com/Alsweider/SteamshotKeeper/refs/heads/master/SteamshotKeeper.png</Screenshot_URL>
     </Program_URLs>
 
     <Program_System_Requirements>
@@ -56,7 +55,7 @@
   </Developer_Info>
 
   <Program_File_Info>
-    <File_Size_MB>21</File_Size_MB>
+    <File_Size_MB>21.4</File_Size_MB>
     <File_Type>ZIP</File_Type>
   </Program_File_Info>
 
