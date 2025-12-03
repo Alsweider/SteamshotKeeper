@@ -26,3 +26,6 @@ Advantage: no API access required.
 
 ### How do I obtain an API key?
 Steam grants every active user a free API key. Click on the "API key" link within the programme window, or open the page directly in your browser: [https://steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey)
+
+### Where is my Steam name / API key stored?
+This is determined by QSettings, probably in the registry (regedit) under the key `Computer\HKEY_CURRENT_USER\SOFTWARE\Alsweider\SteamshotKeeper`.
