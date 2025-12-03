@@ -1,5 +1,8 @@
 # SteamshotKeeper Changelog
 
+## 0.3.2
+The link to retrieve the API key is now clickable.
+
 ## 0.3.1
 - Bug fixed that kept the progress bar active when cancelling and after completion.
 - Interesting bug fixed that created an undeletable folder named `0 - ` when the API did not provide the AppID of a screenshot. This mostly affected screenshots uploaded from non-Steam games via [shortcuts](https://github.com/Alsweider/SteaScreeLoaded). For these screenshots without an AppID and game title, there is now a folder named `Unknown AppID - Unknown Title` (also possible individually, depending on the case).
