@@ -4,7 +4,7 @@ Steam screenshot backup tool. Download your old screenshots from the Steam cloud
 - Download: [Demo version](https://github.com/Alsweider/SteamshotKeeper/releases/latest)
 - Buy: [Full version](https://whop.com/alsweider/steamshotkeeper-dl/)
 
-![2025-12-02 19_32_51-SteamshotKeeper 0 3 0](https://github.com/user-attachments/assets/25aae5f4-a63d-4c1c-b166-fc2f3f8be9db)
+![2025-12-03 02_06_28-SteamshotKeeper 0 3 1](https://github.com/user-attachments/assets/e8e12631-41a7-4aae-8cdd-1c2ca062f951)
 
 <img width="256" height="256" alt="SteamshotKeeper" src="https://github.com/user-attachments/assets/6cc74851-1f04-49ce-b865-c8b419c5fa59" />
 
