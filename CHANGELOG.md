@@ -1,5 +1,9 @@
 # SteamshotKeeper Changelog
-
+## 0.4.0
+- Performance improved: Instead of external Curl processes, platform-independent, Qt-native methods are now used for downloading. This has roughly tripled the download speed, allowing the programme to run more smoothly and making it far less prone to freezing.
+- The progress bar now correctly displays the expected number of items, or switches to an indeterminate loading animation if the number cannot be determined.
+- The download button is now enabled when switching from Crawler to API mode, provided the API key field is not empty.
+  
 ## 0.3.2
 The link to retrieve the API key is now clickable.
 
