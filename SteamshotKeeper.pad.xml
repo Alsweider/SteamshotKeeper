@@ -7,7 +7,7 @@
 
   <Program_Info>
     <Program_Name>SteamshotKeeper</Program_Name>
-    <Program_Version>0.3.1</Program_Version>
+    <Program_Version>0.4.0</Program_Version>
     <Program_Release_Status>Release</Program_Release_Status>
 
     <Program_Categories>
@@ -33,7 +33,7 @@
 
     <Program_URLs>
       <Application_URL>https://github.com/Alsweider/SteamshotKeeper</Application_URL>
-      <Download_URL>https://github.com/Alsweider/SteamshotKeeper/releases/download/v0.3.1-demo/SteamshotKeeper.v0.3.1-demo.zip</Download_URL>
+      <Download_URL>https://github.com/Alsweider/SteamshotKeeper/releases/download/v0.4.0-demo/SteamshotKeeper.v0.4.0-demo.zip</Download_URL>
       <Icon_URL>https://github.com/Alsweider/SteamshotKeeper/raw/refs/heads/master/SteamshotKeeper.ico</Icon_URL>
       <Screenshot_URL>https://raw.githubusercontent.com/Alsweider/SteamshotKeeper/4fdd51cd6b16207bbdd4ee25ccad9c6edd280c1d/screenshot.jpg</Screenshot_URL>
     </Program_URLs>
