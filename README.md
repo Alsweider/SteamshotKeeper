@@ -29,3 +29,6 @@ Steam grants every active user a free API key. Click on the "API key" link withi
 
 ### Where is my Steam name / API key stored?
 This is determined by QSettings, probably in the registry (regedit) under the key `Computer\HKEY_CURRENT_USER\SOFTWARE\Alsweider\SteamshotKeeper`.
+
+### Are all screenshots actually being downloaded?
+It's possible that the Steam API doesn't deliver all screenshots, for example, if they've been deleted by Valve moderators. Additionally, the web crawler has the limitation that it can only access publicly visible screenshots that match its programmed recognition pattern. Therefore, the number of downloaded images may differ from the total number shown on the profile page.
