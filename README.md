@@ -4,7 +4,7 @@ Steam screenshot backup tool. Download your old screenshots from the Steam cloud
 - Download: [Demo version](https://github.com/Alsweider/SteamshotKeeper/releases/latest)
 - Buy: [Full version](https://whop.com/alsweider/steamshotkeeper-dl/)
  
-![2025-12-03 19_22_03-SteamshotKeeper 0 3 2](https://github.com/user-attachments/assets/696f1328-4339-4984-b2b9-6515e5bfa343)
+![2025-12-09 05_30_29-SteamshotKeeper 0 4 0](https://github.com/user-attachments/assets/60f39f39-0949-4476-9cde-065cc8adef2e)
 
 <i>Field tests recorded speeds of around 12 images per second, which may vary depending on network infrastructure.</i>
 
